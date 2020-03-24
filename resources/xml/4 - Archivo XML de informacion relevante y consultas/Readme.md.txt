@@ -1,0 +1,1 @@
+este archivo trata de traducir el xml original a mi propio formato especificado en anteriores puntos
